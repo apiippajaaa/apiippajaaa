@@ -2,9 +2,7 @@
 
 # Hi, I'm Afif
 
-### Fullstack Developer • Laravel • React • Next.js • AI Integration
-
-Building scalable web applications with a strong focus on clean architecture, business solutions, and great user experience.
+### Fullstack Software Engineer • Graphic Designer • Videographer • Tech Enthusiast 
 
 <p>
   <a href="https://afif-portfolio-six.vercel.app">
@@ -17,9 +15,9 @@ Building scalable web applications with a strong focus on clean architecture, bu
     <img src="https://img.shields.io/badge/LinkedIn-Afif-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
-
-<img width="837" height="221" alt="Image" src="https://github.com/user-attachments/assets/6fe868f0-0d6a-4ff1-8e8f-a0c44099c7cf" />
-
+<p align='center'> 
+  <img src="https://github.com/user-attachments/assets/6fe868f0-0d6a-4ff1-8e8f-a0c44099c7cf" />
+</p>
 </div>
 
 ---
