@@ -18,7 +18,7 @@ Building scalable web applications with a strong focus on clean architecture, bu
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Laravel+%7C+React+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+<img width="837" height="221" alt="Image" src="https://github.com/user-attachments/assets/6fe868f0-0d6a-4ff1-8e8f-a0c44099c7cf" />
 
 </div>
 
