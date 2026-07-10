@@ -37,31 +37,37 @@ Besides software development, I also have a background in digital branding and v
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,mysql"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,mysql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,vscode,aws,vercel" />
+</p>
+
+### Design & Creative
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
 </p>
 
 ### Cloud & AI
