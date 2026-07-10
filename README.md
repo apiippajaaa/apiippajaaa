@@ -32,7 +32,7 @@ Besides software development, I also have a background in digital branding and v
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -111,38 +111,6 @@ Healthcare Information System
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apiippajaaa&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apiippajaaa&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=apiippajaaa&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=apiippajaaa&theme=flat&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
@@ -169,8 +137,8 @@ Healthcare Information System
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### _"Great software isn't just about writing code—it's about solving real problems with thoughtful engineering."_
 
-</div>
+</div> -->
