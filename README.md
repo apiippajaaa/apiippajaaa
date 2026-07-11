@@ -34,41 +34,37 @@ Besides software development, I also have a background in digital branding and v
 
 # Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,mysql" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
 
-### Database
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
+<td valign="top" width="50%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ### DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,vscode,aws,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,vscode,aws,vercel" />
 
 ### Design & Creative
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
 
 ### Cloud & AI
 
@@ -78,6 +74,10 @@ Besides software development, I also have a background in digital branding and v
 - Groq API
 - LLM Integration
 - Prompt Engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
