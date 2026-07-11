@@ -32,39 +32,11 @@ Besides software development, I also have a background in digital branding and v
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,java,go,mysql" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman,vscode,aws,vercel" />
-
-### Design & Creative
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,go,java,react,nextjs,tailwind,laravel,nodejs,express,mysql,postgres,docker,linux,git,github,githubactions,aws,vercel,postman,vscode,figma,ps,ai,pr,ae" />
+</p>
 
 ### Cloud & AI
 
@@ -74,12 +46,6 @@ Besides software development, I also have a background in digital branding and v
 - Groq API
 - LLM Integration
 - Prompt Engineering
-
-</td>
-</tr>
-</table>
-
----
 
 # Featured Projects
 
